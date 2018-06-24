@@ -1,0 +1,38 @@
+html,body{
+	height:100vh;
+	width:100vw;
+	padding:0;
+	margin:0;
+}
+
+.tod{
+	background-color:#bdc3c7;
+	width:80%;
+	padding:10px;
+	border:solid;
+	margin:auto;
+	
+}
+.dt{
+	height:8%;
+	border-bottom: 1px solid #cbcbcb;
+	padding-bottom:2px;
+	border-bottom-color:#2980b9;
+	line-height: 2.5em;
+    position: relative;
+	color: #2980b9;
+}
+
+.dy{
+	text-align:center;
+	height:8%;
+	border-bottom: 1px solid #cbcbcb;
+	padding-bottom:2px;
+	border-bottom-color:#2980b9;
+	line-height: 2.5em;
+    position: relative;
+	color: #2c3e50;
+	background-color:#2980b9;
+}
+
+
